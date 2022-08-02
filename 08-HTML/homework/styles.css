@@ -1,0 +1,22 @@
+#thirdDiv {
+height: 600px;
+width: 500px;
+background-color: aquamarine;
+padding: 50px;
+border: 12px solid rgb(11, 26, 233);
+
+}
+
+#spanId{
+font-size: 18px;
+margin: 50px;
+}
+
+h1{
+    color: rgb(212, 14, 226);
+}
+
+img{
+    width: 400px;
+}
+
