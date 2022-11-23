@@ -2,7 +2,7 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = null;
-
+//54545
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
