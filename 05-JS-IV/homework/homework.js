@@ -145,8 +145,12 @@ function agregarMetodoCalculoDescuento (producto) {
   // producto.porcentajeDeDescuento -> 0.2 (o simplemente ".2")
   // producto.calcularPrecioDescuento() -> 20 - (20 * 0.2)
   // Tu código:
-  calcularPrecioDescuento =
-producto[calcularPrecioDescuento]
+
+  
+producto.calcularPrecioDescuento= ()=>{
+return producto.precio - producto.precio * producto.porcentajeDeDescuento
+ }
+ return producto
 }
 
 // No modificar nada debajo de esta línea
